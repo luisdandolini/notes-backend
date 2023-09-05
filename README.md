@@ -1,4 +1,4 @@
-## Supermarket List API
+## Notes API
 
 API in Node.js using Express and SQLite.
 
